@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is AA18-E2C7
+
+ Directory of C:\Dev\MyProject
+
+28/07/2021  10:22 PM    <DIR>          .
+28/07/2021  10:22 PM    <DIR>          ..
+28/07/2021  10:18 PM               386 test1.txt
+28/07/2021  10:22 PM                 0 test2.txt
+28/07/2021  10:12 PM                 0 TestDoco.txt
+               3 File(s)            386 bytes
+               2 Dir(s)  397,817,090,048 bytes free
